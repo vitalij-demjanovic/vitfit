@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage
+coverage/
